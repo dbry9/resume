@@ -18,3 +18,7 @@ h3, h4, p {
 .dates {
     text-align: right;
 }
+
+hr {
+    width: 90%;
+}
