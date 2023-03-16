@@ -1,0 +1,20 @@
+body {
+    line-height: 1;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+h3, h4, p {
+    margin: 0 auto 0 auto;
+}
+
+.dates {
+    text-align: right;
+}
